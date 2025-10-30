@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mohammad-ishtiyaque/investCoPilot/issues"
   },
-  "homepage": "https://github.com/mohammad-ishtiyaque/investCoPilot#readme"
+  "homepage": "https://github.com/mohammad-ishtiyaque/investCoPilot#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
